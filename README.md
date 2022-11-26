@@ -1,2 +1,2 @@
-# Text-Classification
+# Text Classification
 Metin Sınıflandırma örnekleri
